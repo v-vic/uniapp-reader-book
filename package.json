@@ -1,0 +1,17 @@
+{
+    "id": "yoyic-readPage",
+    "displayName": "readPage",
+    "version": "1.0.0",
+    "description": "小说阅读器的阅读页面，包括阅读、翻页、自动计算当前页面应该显示的字数和计算是否是第一页或下一页，设置字体大小、设置背景色等",
+    "keywords": [
+        "小说",
+        "阅读器",
+        "阅读"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
